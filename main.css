@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    block-size: border-box;
+}
+.ota{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 76px;
+    margin-bottom: 107px; 
+}
+.a{
+    font-size: 32px;
+    color: black;
+    text-decoration: none;
+    font-weight: 700;
+}
+.p{
+  font-size: 64px;
+  font-weight: 700;
+  margin-top: 243px;
+  /* margin-right: 569px;
+  margin-left: 570px; */
+  margin-bottom: 128px;
+  text-align: center;
+}
+.ota1{
+    display: flex;
+    justify-content: space-around;
+}
+
+.bola{
+    background-color: red;
+    width: 558px;
+    height: 452px;
+    font-weight: 700;
+    color: white;
+    font-size: 64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
